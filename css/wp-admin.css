@@ -1,0 +1,5 @@
+.wpeplugin-box-label label:first-child{
+	display: block;
+	padding: 10px 0 5px;
+	font-weight: bold;
+}
